@@ -6,7 +6,7 @@ end
 
 def using_sort(array)
   
-  sort = []
+  sort = [wow]
   
 
 end
